@@ -1,0 +1,19 @@
+{
+  "base": [
+    {
+      "id": "1",
+      "__nombre": "",
+      "__contrasena": ""
+    },
+    {
+      "id": "0fd75556-d260-4599-85e1-fbc1b68fde8c",
+      "__nombre": "asdasd",
+      "__contrasena": "123456"
+    },
+    {
+      "id": "3b15aafb-e23d-496a-8607-3dc30fc9325f",
+      "__nombre": "sdads",
+      "__contrasena": "678678"
+    }
+  ]
+}
